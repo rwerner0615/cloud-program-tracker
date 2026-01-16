@@ -1,0 +1,5 @@
+from_initiative,to_initiative,dependency_type,notes
+I-009,I-006,Schedule,Vendor transition affects migration cutover plan
+I-002,I-010,Technical,Incident tabletop depends on logging/monitoring baseline
+I-001,I-004,Access,CI/CD hardening requires access baseline
+I-006,I-005,Operational,DR runbook refresh depends on finalized cutover

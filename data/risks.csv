@@ -1,0 +1,6 @@
+risk_id,initiative_id,severity,description,mitigation_plan,owner
+R-001,I-004,High,Legacy build steps not documented,Run discovery sessions + document pipeline,Ryan Werner (TPM)
+R-002,I-006,High,Cutover window conflicts with business operations,Propose alternate window + escalate decision,Ryan Werner (TPM)
+R-003,I-002,Medium,Inconsistent log formats across services,Define standard schema + validate with pilot,SRE Lead
+R-004,I-009,High,Vendor timeline uncertainty impacts migration dependencies,Weekly checkpoints + contingency plan,Ryan Werner (TPM)
+R-005,I-001,Low,Stakeholders slow to confirm access roles,Set deadline + default role mapping,Security Lead

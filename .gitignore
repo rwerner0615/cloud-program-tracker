@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python (if added later)
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Databases / outputs
+*.db
+*.sqlite

@@ -1,0 +1,11 @@
+initiative_id,name,owner,status,target_date,workstream
+I-001,Identity & Access Baseline,Security Lead,On Track,2026-03-15,Security
+I-002,Logging & Monitoring Standardization,SRE Lead,At Risk,2026-03-22,Observability
+I-003,Cost Allocation Tagging Rollout,FinOps Analyst,On Track,2026-04-05,FinOps
+I-004,CI/CD Pipeline Hardening,DevOps Engineer,Blocked,2026-03-30,DevOps
+I-005,Disaster Recovery Runbook Refresh,IT Operations,On Track,2026-04-12,Reliability
+I-006,Data Migration Cutover Plan,Migration PM,At Risk,2026-03-28,Migration
+I-007,Vulnerability Patch SLA Alignment,Security Analyst,On Track,2026-04-01,Security
+I-008,Service Catalog Cleanup,Service Owner,On Track,2026-04-18,Operations
+I-009,Vendor Transition Coordination,Vendor Manager,At Risk,2026-03-25,Vendor Mgmt
+I-010,Incident Response Tabletop,SRE Lead,On Track,2026-04-08,Reliability
